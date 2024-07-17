@@ -1,0 +1,92 @@
+#chup {
+    text-align: center;
+  }
+  #lasla {
+    text-align: center;
+    margin-top: -10px;
+  }
+  #nasta {
+    text-align: center;
+  }
+  #google {
+    text-align: center;
+  
+    padding: 15px 50px 15px 50px;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+  }
+  #Apple {
+    text-align: center;
+  
+    margin-top: 20px;
+    padding: 15px 50px 15px 50px;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+  }
+  #email1 {
+    text-align: center;
+  }
+  #password1 {
+    text-align: center;
+  }
+  #kai {
+    margin-top: 20px;
+  
+    background-color: yellow;
+    text-align: center;
+    height: 70px;
+    width: 400px;
+    margin-left: 50px;
+  }
+  section {
+    text-align: center;
+  }
+  #login {
+    margin-left: 380px;
+    padding: 10px 30px 10px 30px;
+  }
+  #googleimage {
+    height: 30px;
+    width: 30px;
+    margin-right: 10px;
+    margin-bottom: -9px;
+  }
+  #Appleimage {
+    height: 30px;
+    width: 30px;
+    margin-right: 10px;
+    margin-bottom: -10px;
+  }
+  .overlay {
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    width: 100vw;
+    height: 100vh;
+    background: rgba(0, 0, 0, 0.7);
+    z-index: 1;
+  }
+  .content {
+    position: absolute;
+    top: 300px;
+    left: 700px;
+  
+    transform: translate(-50%, -50%);
+    background: #fff;
+    width: 500px;
+    height: 550px;
+    z-index: 2;
+    text-align: center;
+    border-radius: 6px;
+  }
+  .close-btn {
+    position: absolute;
+    right: -25px;
+    top: -10px;
+    cursor: pointer;
+    background: #fff;
+    font-size: xx-large;
+    font-weight: 2000px;
+    color: black;
+  }
+  .hidden {
+    display: none;
+  }
